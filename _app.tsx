@@ -2,7 +2,7 @@ import '../styles/globals.css'
 import { AppProps } from 'next/app';
 
 export default function App({ Component, pageProps }: AppProps) {
-      console.log('test w s w');
+      console.log('test w s ww');
 
 
   return <Component {...pageProps} />
